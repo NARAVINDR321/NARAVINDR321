@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @N ARAVIND RAKESH 
-- 👀 I’m interested in ... AIMLDS
-- 🌱 I’m currently learning ...COMPUTER VISION 
-- 💞️ I’m looking to collaborate on ... COMMUNITY-BASED MAJOR PROJECTS
+- 👀 Life long learner...
+- 🌱 I’m currently learning Machine Learning,Deep Learning, Computer vision, NLP and Front-End Frame Works
+- 💞️ Ask me about Python, Machine Learning, Front-End Development
 - 📫 How to reach me ...mail me @---naravindr321@gmail.com
 
 <!---
