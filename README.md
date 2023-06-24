@@ -12,20 +12,16 @@
 <img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
 <img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Ember Logo" width="50" height="50"/>
 <img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Ember Logo" width="50" height="50"/>
-<img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Ember Logo" width="50" height="50"/>
-<img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
 
 
-
-
-- Languages - Java ,Python, C++ / C
-- Web - Ember.js ,JavaScript , HTML , CSS
-- DB - MySQL , PSQL , MongoDB
-- Tools - Heroku , Docker, Git, 
-- Course Work - Data Structures, Algorithms, (OOPs) , AI/ML Models, Business Intelligence , Tableau , Exploring world of AI.
 
 ✉️ You can contact me at naravindr321@gmail.com 
-🧠 I'm learning Ember.js , Java .
 
 
 <!---
