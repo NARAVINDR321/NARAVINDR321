@@ -6,7 +6,7 @@
 
 ---
 
-<img src="[https://cdn.worldvectorlogo.com/logos/javascript.svg](https://github.com/devicons/devicon/blob/master/icons/ember/ember-original-wordmark.svg)" alt="Ember Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="Ember Logo" width="50" height="50"/> 
 
 
 
