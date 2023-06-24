@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @N ARAVIND RAKESH 
-- 👀 Life long learner...
-- 🌱 I’m currently learning Machine Learning,Deep Learning, Computer vision, NLP and Front-End Frame Works
-- 💞️ Ask me about Python, Machine Learning, Front-End Development
+Hi, I’m Aravind Rakesh - Full Stack Software Engineer, Data Science Enthusiast, and Product Management 👋 
+
+Technical Skills👇
+
+- Languages - Java ,Python, C++ 
+- Web - Ember.js ,JavaScript , HTML , CSS
+- DB - MySQL , PSQL , MongoDB
+- Tools - Heroku , Docker, Git, 
+- Course Work - Data Structures, Algorithms, (OOPs) , AI/ML Models, Business Intelligence , Tableau , Exploring world of AI.
 - 📫 How to reach me ...mail me @---naravindr321@gmail.com
 
 <!---
