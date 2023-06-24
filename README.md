@@ -4,9 +4,16 @@
 
 🧰 Tech Stack👇
 
----
-
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="Ember Logo" width="50" height="50"/> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/><img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/ember/ember-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Ember Logo" width="50" height="50"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Ember Logo" width="50" height="50"/>
 
 
 
