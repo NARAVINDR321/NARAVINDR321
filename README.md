@@ -7,7 +7,11 @@ Technical Skills👇
 - DB - MySQL , PSQL , MongoDB
 - Tools - Heroku , Docker, Git, 
 - Course Work - Data Structures, Algorithms, (OOPs) , AI/ML Models, Business Intelligence , Tableau , Exploring world of AI.
-- 📫 How to reach me ...mail me @---naravindr321@gmail.com
+
+✉️ You can contact me at naravindr321@gmail.com
+🚀 I'm currently working on Zoho Corporation
+🧠 I'm learning Ember.js , Java .
+
 
 <!---
 NARAVINDR321/NARAVINDR321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
