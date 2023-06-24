@@ -1,15 +1,14 @@
-Hi, I’m Aravind Rakesh - Full Stack Software Engineer, Data Science Enthusiast, and Product Management 👋 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I’m Aravind Rakesh - Full Stack Software Engineer, Data Science Enthusiast, and Product Management 👋 
 
 Technical Skills👇
 
-- Languages - Java ,Python, C++ 
+- Languages - Java ,Python, C++ / C
 - Web - Ember.js ,JavaScript , HTML , CSS
 - DB - MySQL , PSQL , MongoDB
 - Tools - Heroku , Docker, Git, 
 - Course Work - Data Structures, Algorithms, (OOPs) , AI/ML Models, Business Intelligence , Tableau , Exploring world of AI.
 
-✉️ You can contact me at naravindr321@gmail.com
-🚀 I'm currently working on Zoho Corporation
+✉️ You can contact me at naravindr321@gmail.com 
 🧠 I'm learning Ember.js , Java .
 
 
