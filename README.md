@@ -18,8 +18,6 @@
 <img src ="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
 <img src ="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
 <img src ="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Ember Logo" width="50" height="50"/>
-<img src ="https://camo.githubusercontent.com/b152bfaf72055cdec5b9bfe86e89b49bb10ef49ec096e3b8d370698d42f5b9e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666c6174266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="Ember Logo" width="50" height="50"/>
-
 
 
 ✉️ You can contact me at naravindr321@gmail.com 
