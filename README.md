@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I’m Aravind - Full Stack Software Developer, Data Science Enthusiast, and Product Management Enthusiast👋 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I’m Aravind - Full Stack Software Developer, Data Science , and Product Enthusiast👋 
 
 ---
 
