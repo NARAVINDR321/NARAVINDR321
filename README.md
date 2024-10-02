@@ -21,7 +21,6 @@
 
 
 ✉️ You can contact me at naravindr321@gmail.com 
-Linkedin  [Aravind Rakesh](https://www.linkedin.com/in/nambakkam-aravind-rakesh/)
 
 <!---
 NARAVINDR321/NARAVINDR321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
