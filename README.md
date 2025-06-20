@@ -1,22 +1,20 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I’m Aravind - Full Stack SDE, Data Science , and Product Enthusiast👋 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I’m Aravind Rakesh - AI Platform Product Manager , Data Scientist , SDE 👋 
 
 ---
 
-Through my professional experience, I have gained exposure to:
-
-AI Product Management Skillsets: 
+**AI Product Management Skillsets:**
 AI/ML Use Case Development, AI Model Integration, AI-native User Experience (UX), Explainable AI, AI/ML Business Applications.
 
-General Product Skillsets:
+**General Product Skillsets:**
 Product Strategy, Roadmap Planning, Stakeholder Management, User-Centered Design, Agile, Scrum, A/B Testing, Product Lifecycle Management, Metrics-Driven Product Development, Feature Prioritization, User Research, Human Computer Interaction.
 
-Technical ML Skillsets:
+**Technical ML Skillsets:**
 Deep Learning, Natural Language Processing (NLP), Computer Vision, Data Engineering, TensorFlow, PyTorch, Keras, Predictive Analytics, Reinforcement Learning
 
-Tools:
+**Tools:**
 JIRA, Microsoft Excel, Tableau, Microsoft Power BI, Jupyter Notebook, Eclipse, Github, Figma
 
-Programming Languages: 
+**Programming Languages: **
 Python, Java , SQL, PSQL, React.js, Ember.js ,Javascript
 
 Industries of interest: AI/ML, SaaS B2B
