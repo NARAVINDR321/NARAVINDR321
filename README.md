@@ -14,7 +14,7 @@ Deep Learning, Natural Language Processing (NLP), Computer Vision, Data Engineer
 **Tools:**
 JIRA, Microsoft Excel, Tableau, Microsoft Power BI, Jupyter Notebook, Eclipse, Github, Figma
 
-**Programming Languages: **
+**Programming Languages:**
 Python, Java , SQL, PSQL, React.js, Ember.js ,Javascript
 
 Industries of interest: AI/ML, SaaS B2B
